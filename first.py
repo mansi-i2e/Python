@@ -11,4 +11,4 @@ print("Hello", name, ", have a nice day!")
 
 num1 = int(input("enter first num: "))
 num2 = int(input("enter second num: "))
-print("Sum is:", num1+num2)
+print("Product is:", num1*num2)
