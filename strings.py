@@ -52,3 +52,7 @@ replaced = example.replace("bye","luck")
 
 # escape sequence characters
 
+# \n - newline,  \t - tab, \ - single quote
+
+# a= "its a \"sunny\" day today\nbut not a \tchill day"
+# print(a)

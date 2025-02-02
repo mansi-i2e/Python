@@ -14,3 +14,24 @@
 # x= int(input("enter a number: "))
 # print("square:", x**2)
 
+# practice set - 3
+
+# name = input("enter your name: ")
+# # print("Good Afternoon!, " + name)
+# print(f"Good Afternoon, {name} ")
+
+# # use of placeholders (for dynamic string formatting)
+# letter = '''Dear <|Name|>,
+# You are selected !
+# <|Date|>'''
+
+# # manual replacement 
+# print(letter.replace("<|Name|>", "Mansi").replace("<|Date|>", "20 February 2025"))
+
+ex1= "The month of  January has ended"
+ex2= "The month of February is here"
+
+# print(ex1.find("  "))
+# print(ex2.find("  "))
+
+# print(ex1.replace("  "," "))
